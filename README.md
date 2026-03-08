@@ -1,2 +1,2 @@
 # python-test-repo
-**This is test depository for python**
+**This is test repository for python**
